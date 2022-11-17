@@ -1,0 +1,16 @@
+.subtittle {
+    display: flex;
+    justify-content: center;
+    color: rgba(11, 128, 0, 0.623);
+}
+.alumno {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(75, 42, 165);
+    color: white;
+    margin-top: 180px;
+
+}
